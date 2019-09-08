@@ -3,7 +3,7 @@ const app = express();
 const morgan = require('morgan');
 
 
-//To remove ORDERS from RESTAPI, simply delete const(ORDerS) and app.use(ORDERS)
+//To remove ORDERS from REST-API, simply delete const(ORDerS) and app.use(ORDERS)
 const contactRoutes = require('./api/routes/contacts');
 const orderRoutes = require('./api/routes/orders');
 
