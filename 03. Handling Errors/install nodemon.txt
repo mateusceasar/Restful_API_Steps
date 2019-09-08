@@ -1,0 +1,7 @@
+npm install --save-dev nodemon/
+
+ALSO install:
+
+npm install --save morgan
+
+What is Morgan? - Morgan serves as a log for each method made towards the server;
