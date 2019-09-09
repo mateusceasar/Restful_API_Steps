@@ -1,0 +1,3 @@
+//*This step adds a DATABASE + MONGOOSE.
+
+Note: PASSWORD was kept hardcored in order to keep code working and Server online with Database ATLAS.
